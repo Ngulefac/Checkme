@@ -19,4 +19,3 @@ Just Download & Run.
 More Feature & Exe & GUI Coming Soon!
 
 <mark><b>For any kind of help, support, payment, suggestion and request ask me on Gmail. </b></mark>
-
