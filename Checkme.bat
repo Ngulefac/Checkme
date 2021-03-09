@@ -9,3 +9,4 @@ systeminfo | findstr /c:"System Manufacturer"
 systeminfo | findstr /c:"System Model"
 systeminfo | findstr /c:"System type"
 systeminfo | findstr /c:"Total Physical Memory"
+ipconfig | findstr IPv4
