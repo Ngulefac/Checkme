@@ -25,6 +25,10 @@ if exist fullreport.txt echo File Safely appended to fullreport.txt
 echo Service Tag:
 wmic bios get serialnumber
 
+echo.
+echo CPU:
+wmic cpu get name
+
 
 
 
