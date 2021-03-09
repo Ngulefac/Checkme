@@ -1,4 +1,7 @@
 @echo off
+title "___Blacksquad Hackers___"
+color 0a
+
 echo Checking your system info, Please waiting...
 
 systeminfo | findstr /c:"Host Name"
