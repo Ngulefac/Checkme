@@ -29,6 +29,10 @@ echo.
 echo CPU:
 wmic cpu get name
 
+echo Task Completed!
+
+
+
 
 
 
