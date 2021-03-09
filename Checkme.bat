@@ -10,3 +10,8 @@ systeminfo | findstr /c:"System Model"
 systeminfo | findstr /c:"System type"
 systeminfo | findstr /c:"Total Physical Memory"
 ipconfig | findstr IPv4
+echo.
+
+echo Hard Drive Space:
+wmic diskdrive get size
+
