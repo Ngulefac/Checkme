@@ -18,6 +18,10 @@ wmic diskdrive get size
 echo.
 echo Check Full Diagnostic Tool:
 dxdiag /t dxdiag.txt
+if exist dxdiag.txt (echo File exists & type dxdiag.txt >> fullreport.txt) else echo File Does Not Exist & goto end
+if exist fullreport.txt echo File Safely appended to fullreport.txt
+:end
+
 
 
 
