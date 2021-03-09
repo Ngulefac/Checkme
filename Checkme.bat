@@ -1,6 +1,7 @@
 @echo off
 title "___Blacksquad Hackers___"
-color 0a
+
+color 0
 
 echo Checking your system info, Please waiting...
 
