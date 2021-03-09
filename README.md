@@ -13,3 +13,7 @@
 - Get Full Hardware Information
 - Get Full Network Information
 - Report Save on Text File
+
+Just Download & Run.
+
+More Feature & Exe & GUI Coming Soon!
