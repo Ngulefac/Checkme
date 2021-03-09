@@ -15,3 +15,5 @@ echo.
 echo Hard Drive Space:
 wmic diskdrive get size
 
+echo.
+echo Check Full Diagnostic Tool:
