@@ -17,3 +17,7 @@ wmic diskdrive get size
 
 echo.
 echo Check Full Diagnostic Tool:
+dxdiag /t dxdiag.txt
+
+
+
