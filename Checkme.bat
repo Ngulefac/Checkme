@@ -22,6 +22,10 @@ if exist dxdiag.txt (echo File exists & type dxdiag.txt >> fullreport.txt) else 
 if exist fullreport.txt echo File Safely appended to fullreport.txt
 :end
 
+echo Service Tag:
+wmic bios get serialnumber
+
+
 
 
 
